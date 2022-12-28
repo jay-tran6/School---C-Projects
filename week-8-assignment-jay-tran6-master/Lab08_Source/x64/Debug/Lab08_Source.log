@@ -1,0 +1,10 @@
+﻿  Lab08.cpp
+C:\Users\jayde\Documents\Labs\Lab08\lab08utility.cpp(34,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jayde\Documents\Labs\Lab08\lab08utility.cpp(43,40): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\jayde\Documents\Labs\Lab08\lab08utility.cpp(60,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jayde\Documents\Labs\Lab08\lab08utility.cpp(87,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Lab08_Source.vcxproj -> C:\Users\jayde\Documents\Labs\Lab08\x64\Debug\Lab08_Source.exe

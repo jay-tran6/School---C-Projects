@@ -1,0 +1,10 @@
+﻿  Lab06.cpp
+C:\Users\jayde\Documents\Labs\Lab06\Lab06_Source\Lab06.cpp(43,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jayde\Documents\Labs\Lab06\Lab06_Source\Lab06.cpp(43,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jayde\Documents\Labs\Lab06\Lab06_Source\Lab06.cpp(43,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jayde\Documents\Labs\Lab06\Lab06_Source\Lab06.cpp(43,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jayde\Documents\Labs\Lab06\Lab06_Source\Lab06.cpp(43,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jayde\Documents\Labs\Lab06\Lab06_Source\Lab06.cpp(43,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jayde\Documents\Labs\Lab06\Lab06_Source\Lab06.cpp(52,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jayde\Documents\Labs\Lab06\Lab06_Source\Lab06.cpp(68,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab06_Source.vcxproj -> C:\Users\jayde\Documents\Labs\Lab06\x64\Debug\Lab06_Source.exe
