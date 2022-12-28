@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\jayde\Documents\Labs\Lab10\Lab 10\main.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lab 10.vcxproj -> C:\Users\jayde\Documents\Labs\Lab10\x64\Debug\Lab 10.exe

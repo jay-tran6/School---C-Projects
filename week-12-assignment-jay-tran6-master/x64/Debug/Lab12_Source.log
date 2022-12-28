@@ -1,0 +1,13 @@
+﻿  Employee.cpp
+  Lab12.cpp
+  Generating Code...
+Lab12.obj : error LNK2005: "public: __cdecl Employee::Employee(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Employee@@QEAA@HV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Employee.obj
+Lab12.obj : error LNK2005: "public: void __cdecl Employee::fire(void)" (?fire@Employee@@QEAAXXZ) already defined in Employee.obj
+Lab12.obj : error LNK2005: "public: double __cdecl Employee::getBalance(void)" (?getBalance@Employee@@QEAANXZ) already defined in Employee.obj
+Lab12.obj : error LNK2005: "public: int __cdecl Employee::getEmployeeID(void)" (?getEmployeeID@Employee@@QEAAHXZ) already defined in Employee.obj
+Lab12.obj : error LNK2005: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Employee::getName(void)" (?getName@Employee@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) already defined in Employee.obj
+Lab12.obj : error LNK2005: "public: double __cdecl Employee::getPayRate(void)" (?getPayRate@Employee@@QEAANXZ) already defined in Employee.obj
+Lab12.obj : error LNK2005: "public: void __cdecl Employee::giveRaise(int)" (?giveRaise@Employee@@QEAAXH@Z) already defined in Employee.obj
+Lab12.obj : error LNK2005: "public: bool __cdecl Employee::isEmployed(void)" (?isEmployed@Employee@@QEAA_NXZ) already defined in Employee.obj
+Lab12.obj : error LNK2005: "public: void __cdecl Employee::pay(void)" (?pay@Employee@@QEAAXXZ) already defined in Employee.obj
+C:\Users\jayde\Documents\Labs\lab12\x64\Debug\Lab12.exe : fatal error LNK1169: one or more multiply defined symbols found
