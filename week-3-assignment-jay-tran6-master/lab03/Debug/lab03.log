@@ -1,0 +1,6 @@
+﻿  lab03.cpp
+C:\Users\Jay's PC\Documents\CS201L\Lab03\lab03\lab03.cpp(11,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jay's PC\Documents\CS201L\Lab03\lab03\lab03.cpp(12,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jay's PC\Documents\CS201L\Lab03\lab03\lab03.cpp(13,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jay's PC\Documents\CS201L\Lab03\lab03\lab03.cpp(14,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  lab03.vcxproj -> C:\Users\Jay's PC\Documents\CS201L\Lab03\lab03\Debug\lab03.exe

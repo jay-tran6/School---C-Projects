@@ -1,0 +1,2 @@
+C:\Users\Jay's PC\Documents\CS201L\Lab03\lab03\Debug\lab03.exe
+C:\Users\Jay's PC\Documents\CS201L\Lab03\lab03\Debug\lab03.pdb
